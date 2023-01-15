@@ -1,8 +1,8 @@
-# [Puzzler - 대외활동 기록 앱](https://apps.apple.com/kr/app/puzzler-%EB%8C%80%EC%99%B8%ED%99%9C%EB%8F%99-%EA%B8%B0%EB%A1%9D-%EC%95%B1/id1606645247)
-
+# Puzzler - 대외활동 기록 앱
 ### 빠짐없이 기록하는 나의 커리어 
 깜빡깜빡 잊어버리는 나의 소중한 경험들, 하나라도 놓치고 싶지 않나요? <br> 
-퍼즐러와 완벽한 커리어 퍼즐을 완성해봐요 ^__^
+퍼즐러와 완벽한 커리어 퍼즐을 완성해봐요 ^__^ <br>
+<i>[App Store에서 다운받기](https://apps.apple.com/kr/app/puzzler-%EB%8C%80%EC%99%B8%ED%99%9C%EB%8F%99-%EA%B8%B0%EB%A1%9D-%EC%95%B1/id1606645247)</i>
 
 #### 개발환경 
 - 개발 툴   Xcode 
